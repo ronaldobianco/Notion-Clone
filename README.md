@@ -13,7 +13,7 @@ This is a project to replicate the note-taking functionality of the famous Notio
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/notion-notes-replication.git`
+1. Clone the repository: `git clone https://github.com/ronaldobianco/Notion-Clone.git`
 2. Navigate to the project directory: `cd notion-notes-replication`
 3. Install dependencies: `npm install`
 4. Start the server: `npm start`
